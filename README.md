@@ -1,0 +1,3 @@
+# Software_Construction_Project
+软件构造课程相关项目
+本项目所有文件为完成此项目的代码，相关的设计指导书参考2020春Lab3.
